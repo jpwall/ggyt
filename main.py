@@ -6,26 +6,7 @@ time = {"second": 1, "minute": 60, "hour": 3600, "day": 86400, "week": 604800, "
 #       {"name": "Channel Name", "url": "https://www.youtube.com/c/[user]/videos"}
 #       The link can be found by navigating to the 'Videos' tab of the channel desired
 channels = [
-    {"name": "All Gas No Brakes", "url": "https://www.youtube.com/channel/UCtqxG9IrHFU_ID1khGvx9sA/videos"},
-    {"name": "Ally Hills", "url": "https://www.youtube.com/c/AllyHills/videos"},
-    {"name": "Arpi Park", "url": "https://www.youtube.com/c/ArpiPark/videos"},
-    {"name": "BionicPIG", "url": "https://www.youtube.com/c/BionicPIGtv/videos"},
-    {"name": "brutalmoose", "url": "https://www.youtube.com/c/brutalmoose/videos"},
-    {"name": "Cherdleys", "url": "https://www.youtube.com/c/Cherdleys/videos"},
-    {"name": "Chubbyemu", "url": "https://www.youtube.com/c/ChubbyemuGames/videos"},
-    {"name": "Corridor Crew", "url": "https://www.youtube.com/c/corridorcrew/videos"},
-    {"name": "Danny Gonzalez", "url": "https://www.youtube.com/c/Danny100/videos"},
-    {"name": "Drew Gooden", "url": "https://www.youtube.com/c/DrewGooden1/videos"},
-    {"name": "Eddy Burback", "url": "https://www.youtube.com/c/EddyBurback/videos"},
-    {"name": "How To Drink", "url": "https://www.youtube.com/c/howtodrink/videos"},
-    {"name": "Kurtis Conner", "url": "https://www.youtube.com/user/kurtisconner/videos"},
-    {"name": "Linus Tech Tips", "url": "https://www.youtube.com/c/LinusTechTips/videos"},
-    {"name": "Marques Brownlee", "url": "https://www.youtube.com/c/mkbhd/videos"},
-    {"name": "My Analog Journal", "url": "https://www.youtube.com/c/MyAnalogJournal/videos"},
-    {"name": "PhilipSoloTV", "url": "https://www.youtube.com/c/PhilipSoloTV/videos"},
-    {"name": "Scott Cramer", "url": "https://www.youtube.com/c/ScottsTOL/videos"},
-    {"name": "theneedledrop", "url": "https://www.youtube.com/c/theneedledrop/videos"},
-    {"name": "Whang!", "url": "https://www.youtube.com/c/WhangWhangWhang/videos"}
+    
     ]
 
 session = HTMLSession()
